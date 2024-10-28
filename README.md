@@ -1,4 +1,5 @@
 # ProjetoPOO
+Equipe: Nathan Mansur Tenório, Marina Mendes Durand e Thiago Gabriel Tahim
 
 # Sistema de Gerenciamento
 
